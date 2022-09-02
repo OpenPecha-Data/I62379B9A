@@ -1,0 +1,99 @@
+id: 615e883bb12b42049fb81efe8f5f196e
+annotation_type: Language
+revision: '00001'
+annotations:
+  a7877a2aa8924f188ed886bd45813dd3:
+    span:
+      start: 37
+      end: 163
+    language: en
+  b2b7342eca3c409c921a8e2717a1bbde:
+    span:
+      start: 203
+      end: 245
+    language: en
+  f55fb74179474357b7212b9fdd6b6025:
+    span:
+      start: 273
+      end: 912
+    language: en
+  c4f4ce52dd5a40628c628501165182a7:
+    span:
+      start: 982
+      end: 1291
+    language: en
+  b1eaa74afdbe42b598bc021beffa41c1:
+    span:
+      start: 1431
+      end: 1497
+    language: en
+  08615761a8314a009be56363a156eaf6:
+    span:
+      start: 1544
+      end: 1706
+    language: en
+  7375ee7a09cc4fe5aca6cc58ffb5711d:
+    span:
+      start: 1793
+      end: 1902
+    language: en
+  952166eb61f8400e97864e5942c2437c:
+    span:
+      start: 1973
+      end: 2000
+    language: en
+  232de3ff39de457dafdabad5c7aa19a2:
+    span:
+      start: 58062
+      end: 58211
+    language: en
+  28a2dc22ef0c4ba2a013e09ca4155d93:
+    span:
+      start: 66682
+      end: 66826
+    language: en
+  88c5ee88d11c4268bd4b6286f63b665a:
+    span:
+      start: 85733
+      end: 85756
+    language: en
+  0627842c4e23442a80e1ef758059f4ed:
+    span:
+      start: 132323
+      end: 132472
+    language: en
+  1f82006277224c45a880dc8e4b8160fa:
+    span:
+      start: 211442
+      end: 211569
+    language: en
+  30389dc3727447ccb036d458e4160340:
+    span:
+      start: 234016
+      end: 234163
+    language: en
+  08d895cf2e6d49b588947c0e0340c388:
+    span:
+      start: 268762
+      end: 268918
+    language: en
+  583ee7b7775a4b26868004ba2b04ba0d:
+    span:
+      start: 345390
+      end: 345694
+    language: en
+  ee90b1efeada42a7a757b1d3fd6281db:
+    span:
+      start: 383034
+      end: 383179
+    language: en
+  3940d6a6626541359b7430f33de02fc7:
+    span:
+      start: 394637
+      end: 394788
+    language: en
+  2bffaf51d9844fffad8771d2ae7796b3:
+    span:
+      start: 442939
+      end: 443099
+    language: en
